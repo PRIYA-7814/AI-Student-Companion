@@ -93,4 +93,4 @@ AI Student Companion is a unified AI platform that provides:
 - **Payal**
 - **Navpreet Kaur**
 - **Pawanpreet Kaur**
-- **Navdeep Kaur**
+
